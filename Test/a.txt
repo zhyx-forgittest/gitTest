@@ -1,7 +1,13 @@
 int main()
 {
+
 	print("Hello zhujunlue");
 	print("Hello zhujunlue");
 	print("Hello zhujunlue");
+
+	print("Hello world10");
+	print("Hello world2");
+	print("Hello world3");
+
 	return 0;
 }
